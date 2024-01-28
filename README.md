@@ -1,2 +1,2 @@
-A Mini JS Porject: Calculator.
-Live Link:https://calculatorbypanda.netlify.app/
+A Mini JS Porject: Calculator
+Live Link: https://calculatorbypanda.netlify.app/
