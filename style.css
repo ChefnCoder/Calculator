@@ -79,5 +79,5 @@ button{
 .btn-clear{
     border-radius: 100%;
     border: 3px solid rgb(145, 4, 4);
-    background-image: linear-gradient(rgb(255, 136, 0),red);
+    background-image: linear-gradient(rgb(255, 111, 0),rgb(157, 12, 12));
 }
