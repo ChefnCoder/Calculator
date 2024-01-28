@@ -45,14 +45,13 @@ form input{
 }
 
 button{
-    flex: 0 0 22%;
+    /* flex: 0 0 22%; */
     margin: 5px 0;
-    border: 3px solid black;
     width: 60px;
     height: 52px;
     font-size: 22px;
     font-weight: 600;
-    border-radius: 5px;
+    border-radius: 12px;
     cursor: pointer;
 }
 
@@ -60,24 +59,28 @@ button{
 
 .btn-yellow{
     background-image: linear-gradient(yellow,rgb(190, 56, 3));
-    border-radius: 100%;
+    /* border-radius: 100%; */
     border: 3px solid rgb(255, 157, 0);
     
 }
 
 .btn-grey{
     background-image: linear-gradient(rgb(151, 149, 149),rgb(2, 2, 2));
+    border: 3px solid black;
     color: white;
+    
 }
 
 .btn-equal{
-    border-radius: 100%;
+    width: 120px;
+    /* border-radius: 100%; */
     border: 3px solid rgb(6, 136, 13);
     background-image: linear-gradient(rgb(160, 247, 54),rgb(2, 75, 2));
 }
 
 .btn-clear{
-    border-radius: 100%;
+    width: 120px;
+    /* border-radius: 100%; */
     border: 3px solid rgb(145, 4, 4);
     background-image: linear-gradient(rgb(255, 111, 0),rgb(157, 12, 12));
 }
