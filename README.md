@@ -1,3 +1,1 @@
-In this branch i was adding click button feature. 
-
-Now this branch serve as old styling of this project.
+This branch is most recent, used to change dstyling of css, currently merged with master 
